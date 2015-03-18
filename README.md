@@ -2,7 +2,7 @@ GFTampering
 ============
 
 - Quick shortcut to check whether a glassfish server is vulnerable to CVE-2011-1511
-- It'll issue a TRACE to the new user JSF, it doesn't create the new user.
+- It'll issue a TRACE to the "create new user JSF", it doesn't create the new user.
 - To port: create the user!
 - <b>Usage</b>: Run using a custom insertion point that includes the verb and URL portions of the request
 
